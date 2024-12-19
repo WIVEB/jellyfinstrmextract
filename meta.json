@@ -1,0 +1,12 @@
+{
+    "category": "General",
+    "changelog": "changelog\n",
+    "description": "This plugin extracts automatically media information from STRM files\n",
+    "guid": "5b9adc74-c34c-41bb-b8da-bbccd9e72455",
+    "name": "JellyfinStrmExtract",
+    "overview": "Extracts automatically info from STRM",
+    "owner": "gauthier-th",
+    "targetAbi": "10.9.0.0",
+    "timestamp": "2024-11-09T14:02:55Z",
+    "version": "1.0.0.0"
+}

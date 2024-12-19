@@ -1,0 +1,76 @@
+# Build system files
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+
+# Android Studio navigation editor temporary files
+*.navigation.tmp
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Proguard files
+proguard-rules.pro
+*.pro
+
+# Log Files
+*.log
+
+# Keystore files
+*.jks
+*.keystore
+
+# APKs
+*.apk
+
+# Generated files
+bin/
+gen/
+out/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+
+# Dependency caches
+.gradle/caches/
+
+# Built application files
+*.apk
+*.aab
+
+# Files for the ART/Dalvik VM intermediates
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+
+# Gradle generated files
+.gradle/
+build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Log Files
+*.log
+
+# Keystore files
+*.jks
+
+# Google Services (e.g. APIs or Firebase)
+google-services.json
+
+# macOS folder attributes
+.DS_Store
